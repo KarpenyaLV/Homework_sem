@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\bin\Debug\net6.0\SEM_5.exe
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\bin\Debug\net6.0\SEM_5.deps.json
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\bin\Debug\net6.0\SEM_5.runtimeconfig.json
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\bin\Debug\net6.0\SEM_5.dll
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\bin\Debug\net6.0\SEM_5.pdb
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\SEM_5.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\SEM_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\SEM_5.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\SEM_5.AssemblyInfo.cs
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\SEM_5.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\SEM_5.dll
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\refint\SEM_5.dll
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\SEM_5.pdb
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\SEM_5.genruntimeconfig.cache
+C:\Users\Asus\Desktop\SEMINARS\Sem_5\obj\Debug\net6.0\ref\SEM_5.dll
